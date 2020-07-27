@@ -13,11 +13,12 @@
 - 🔭 I’m currently working on Front-End Web Development.
 - 🌱 I’m currently learning Python and Back-End Web Development.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
+<img align="right" alt="GIF" src="https://animeright.news/wp-content/uploads/sites/2/2019/01/ARN-Coding-2.gif" />
 - 🎨 My hobby : I love to sing,read mystery& thriller novels.
 - 😄 Fun fact: In my free time, I like to dance on random songs:D.
 - 📫 How to reach me: mail me at [nikita871gidmail@gmail.com](mailto:nikita871gidmail@gmail.com)
 
-<img align="right" alt="GIF" src="https://animeright.news/wp-content/uploads/sites/2/2019/01/ARN-Coding-2.gif" />
+
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=geekygirl8&show_icons=true&hide_border=true&hide=["stars"])
 
