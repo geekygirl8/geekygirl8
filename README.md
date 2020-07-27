@@ -7,6 +7,9 @@
 
 ## Hi there 👋,
 #### I'm Nikita a first year student pursuing my Bachelors in Technology specialised in Information Technology. Iam a passionate learner who loves to code. I am creatively curious and a self learner. I love exploring new technologies and always ready to learn new skills.
+<br>
+<img align="right" alt="GIF" src="https://animeright.news/wp-content/uploads/sites/2/2019/01/ARN-Coding-2.gif" />
+</br>
 
 
 ## 🧐 Some more about me:
