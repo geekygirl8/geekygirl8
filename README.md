@@ -6,7 +6,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=geekygirl8.geekygirl8)  
 
 ## Hi there 👋,
-##### I'm a Nikita a first year student pursuing my Bachelors in Technology specialised in Information Technology. I a'm a passionate learner who loves to code. I am creatively curious and a self learner. I love exploring new technologies and always ready to learn new skills.
+#### I'm a Nikita a first year student pursuing my Bachelors in Technology specialised in Information Technology. I a'm a passionate learner who loves to code. I am creatively curious and a self learner. I love exploring new technologies and always ready to learn new skills.
+
 
 <img align="right" alt="GIF" src="https://animeright.news/wp-content/uploads/sites/2/2019/01/ARN-Coding-2.gif" />
 
