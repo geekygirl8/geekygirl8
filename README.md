@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/@i_nikkita_-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/i_nikkita_)
 [![Gmail Badge](https://img.shields.io/badge/nikita871gidmail@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:nikita871gidmail@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=geekygirl8.geekygirl8) 
-![](https://in.pinterest.com/pin/849491548443167117/)
+
 
 ## Hi there 👋,
 #### I'm Nikita a first year student pursuing my Bachelors in Technology specialised in Information Technology. I'm a passionate learner who loves to code. I am creatively curious and a self learner. I love exploring new technologies and always ready to learn new skills.
