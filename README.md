@@ -7,7 +7,7 @@
 
 
 ## Hi there 👋,
-#### I'm Nikita a first year student pursuing my Bachelors in Technology specialised in Information Technology. I'm a passionate learner who loves to code. I am creatively curious and a self learner. I love exploring new technologies and always ready to learn new skills.
+#### I'm Nikita a first year student pursuing my Bachelors in Technology specialised in Information Technology. I'm a passionate learner who loves to code. I am creative, curious and a self learner. I love exploring new technologies and always ready to learn new skills.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
