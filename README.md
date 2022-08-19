@@ -9,7 +9,8 @@
 ## Hi there 👋,
 #### I'm Nikita a final-year student pursuing my Bachelors in Technology specialised in Information Technology. I'm a passionate learner who loves to code. I am creative, curious and a self learner. I love exploring new technologies and always ready to learn new skills.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align = "center" alt="GIF" width="800px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
 
 ## 🧐 Some more about me:
 - 🔭 I’m currently working on Front-End Web Development.
@@ -19,6 +20,7 @@
 - 😄 Fun fact: In my free time, I like to dance on random songs:D.
 - 📫 How to reach me: mail me at [nikita871gidmail@gmail.com](mailto:nikita871gidmail@gmail.com)
 <br>
+
 
 
 ### Languages and Tools:
