@@ -40,5 +40,10 @@
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=geekygirl8&show_icons=true&hide_border=true&hide=["stars"])
 
+<p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygirl8&layout=compact&hide=php,c,html,roff&langs_count=10" alt="olive-green" /> </p>
+
+<p>&nbsp;&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=geekygirl8&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" /> </p> </p>
+
+
 
 
