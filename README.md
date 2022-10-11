@@ -43,8 +43,9 @@
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=geekygirl8&show_icons=true&hide_border=true&hide=["stars"])
 
-
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekygirl8&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" /></p></p>
+
+[![@geekygirl8's Holopin board](https://holopin.io/api/user/board?user=geekygirl8)](https://holopin.io/@geekygirl8)
 
 
 
