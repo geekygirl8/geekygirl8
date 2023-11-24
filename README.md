@@ -7,15 +7,15 @@
 
 
 ## Hi there 👋,
-#### I'm Nikita a final-year student pursuing my Bachelors in Technology specialised in Information Technology. I'm a passionate learner who loves to code. I am creative, curious and a self learner. I love exploring new technologies and always ready to learn new skills.
+#### I'm Nikita a Software Engineer specialized in Backend Technologies including Java and Springboot. I have done my Bachelors in Technology specialised in Information Technology. I'm a passionate learner who loves to code. I am creative, curious and a self learner. I love exploring new technologies and always ready to learn new skills.
 
 <img align = "center" alt="GIF" width="800px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 
 ## 🧐 Some more about me:
-- 🔭 I’m currently working on Front-End Web Development.
-- 🌱 I’m currently learning Python and Back-End Web Development.
-- 🤔 I’m looking for help with Data Structures and Algorithms.
+- 🔭 I’m currently working on Backend Web Developement.
+- 🌱 I’m currently learning Amazon Web Services.
+- 🤔 I’m looking for help with Data Science and Machine Learning
 - 🎨 My hobby : I love to sing,read mystery& thriller novels.
 - 😄 Fun fact: In my free time, I like to dance on random songs:D.
 - 📫 How to reach me: mail me at [nikita871gidmail@gmail.com](mailto:nikita871gidmail@gmail.com)
