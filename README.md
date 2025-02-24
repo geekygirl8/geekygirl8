@@ -2,7 +2,7 @@
 [![Linkedin badge](https://img.shields.io/badge/inikkita-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/inikkita/)
 [![Twitter badge](https://img.shields.io/badge/i_nikkita-30302f?style=flat&logo=twitter)](https://twitter.com/i_nikkita)
 [![Instagram Badge](https://img.shields.io/badge/@i_nikkita_-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/i_nikkita_)
-[![Gmail Badge](https://img.shields.io/badge/nikita871gidmail@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:nikita871gidmail@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/nikita871gidmail@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:nikita.jssaten@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=geekygirl8.geekygirl8) 
 
 
