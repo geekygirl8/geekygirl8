@@ -3,7 +3,7 @@
 [![Twitter badge](https://img.shields.io/badge/i_nikkita-30302f?style=flat&logo=twitter)](https://twitter.com/i_nikkita)
 [![Instagram Badge](https://img.shields.io/badge/@i_nikkita_-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/i_nikkita_)
 [![Gmail Badge](https://img.shields.io/badge/nikita.jssaten@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:nikita.jssaten@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=geekygirl8.geekygirl8) 
+<!--[![](https://visitor-badge.glitch.me/badge?page_id=geekygirl8.geekygirl8)]-->
 
 
 ## Hi there 👋,
@@ -18,7 +18,7 @@
 - 🤔 I’m looking for help with Data Science and Machine Learning
 - 🎨 My hobby : I love to sing,read mystery& thriller novels.
 - 😄 Fun fact: In my free time, I like to dance on random songs:D.
-- 📫 How to reach me: mail me at [nikita871gidmail@gmail.com](mailto:nikita.jssaten@gmail.com)
+- 📫 How to reach me: mail me at [nikita.jssaten@gmail.com](mailto:nikita.jssaten@gmail.com)
 <br>
 
 
